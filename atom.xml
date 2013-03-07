@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[How Openstack?]]></title>
   <link href="http://rpawlik.github.com/atom.xml" rel="self"/>
   <link href="http://rpawlik.github.com/"/>
-  <updated>2013-03-07T22:53:11+00:00</updated>
+  <updated>2013-03-07T23:14:41+00:00</updated>
   <id>http://rpawlik.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ramsey Pawlik]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[About This Blog]]></title>
+    <link href="http://rpawlik.github.com/blog/2013/03/07/about-this-blog/"/>
+    <updated>2013-03-07T23:01:00+00:00</updated>
+    <id>http://rpawlik.github.com/blog/2013/03/07/about-this-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
